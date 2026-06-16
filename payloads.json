@@ -1,11 +1,10 @@
 {
   "name": "pegasus-dl",
   "filename": "pegasus_dl_v1.4.0.elf",
-  "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.4.0/pegasus_dl.elf",
-  "source": "https://github.com/pegasus-ps5/pegasus-dl/releases",
-  "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/download/v1.4.0/pegasus_dl.elf",
+  "url": "https://github.com/pegasus-ps5/pegasus-dl/releases/latest/download/pegasus_dl.elf",
+  "source_direct": "https://github.com/pegasus-ps5/pegasus-dl/releases/latest/download/pegasus_dl.elf",
   "description": "Simple downloader payload for PS5 (Pegasus ecosystem)",
   "last_update": "2026-06-16",
-  "version": "v1.4.0",
+  "version": "latest",
   "checksum": ""
 }
